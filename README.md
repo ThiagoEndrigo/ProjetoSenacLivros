@@ -1,6 +1,6 @@
 # API para registro e insersão e manupulação de Livros
 
-Um parágrafo da descrição do projeto vai aqui
+Projeto desenvolvido durante o curso de Back-End em JavaScript. 
 
 ## 🚀 Começando
 
