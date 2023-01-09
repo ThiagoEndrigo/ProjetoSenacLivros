@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso de Back-End em JavaScript.
 
 ## 🚀 Começando
 
-Este é projeto Back-End de uma API desevolvida em JavaScript, que tem por objetivo Cadastrar, Inserir, Atualizar e Deletar o cadastro de Livros.
+Este é projeto Back-End de uma API desenvolvida em JavaScript, que tem por objetivo Cadastrar, Inserir, Atualizar e Deletar o cadastro de Livros.
 
 
 ### 📋 Pré-requisitos
@@ -26,7 +26,7 @@ No arquivos database.js configurar a url do banco de dados do 🔗MongoDB para p
 * NPM (Node Package Manager)
 * EXPRESS
 
-## Banco de dados
+##  Banco de dados
 
 * MongoDB 
 
